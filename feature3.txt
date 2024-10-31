@@ -1,1 +1,1 @@
-Cambio de feature3
+Cambio de feature3   Conflicto 2
